@@ -12,7 +12,8 @@ Uma aplicação web que exibe informações sobre Pokémon, permitindo que você
 
 ## Contribuintes
 
-- **RenanJPaula**: Instrutor e mentor que ajudou a desenvolver o projeto.
+- **RenanJPaula**: Instrutor e mentor que ajudou a desenvolver o projeto. 
+- Link [![RenanJPaula](https://img.shields.io/badge/RenanJPaula-%230A74DA?style=flat&logo=github&logoColor=white)](https://github.com/RenanJPaula)
 
 ## Link do projeto
 
@@ -20,7 +21,8 @@ Uma aplicação web que exibe informações sobre Pokémon, permitindo que você
 
 ## Imagem do Projeto
 
-![Pokedex GIF](https://example.com/pokedex.gif)
+![Pokedex GIF](pokedex.gif)
+
 
 
 
